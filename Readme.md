@@ -10,3 +10,5 @@ The DJ image : https://unsplash.com/@bobby_usa
 The third person: https://unsplash.com/@oguzyagiz
 
 The music quote: https://www.brainyquote.com/quotes/bob_marley_109299?src=t_music
+The Girl in team: https://unsplash.com/it/@aiony
+...
